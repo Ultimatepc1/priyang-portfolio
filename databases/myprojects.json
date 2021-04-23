@@ -1,0 +1,154 @@
+[
+  {
+  "title": "Virtual Lab Simulator",
+  "timestamp": "1372663333",
+  "date": "May 05,2021",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/desk_lab_gif.gif?raw=true",
+  "tech_stack": [
+    "ReactJS",
+    "FramerMotion",
+    "CSS",
+    "Html",
+    "BootStrap",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "type": "Web/Youtube",
+  "project_link": "http://cdac.olabs.edu.in/?sub=75&brch=12&sim=250&cnt=4",
+  "github_link": "N/A",
+  "youtube_link": "https://www.youtube.com/watch?v=3vKMyPvyGFg",
+  "description": "Virtual Lab Simulator for experiment of standard 10th created under mentorship of CDAC and deployed on OLABS Portal."
+},
+{
+  "title": "ManMatters App",
+  "timestamp": "1325371814",
+  "date": "April 05, 2021",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/mm_gif.gif?raw=true",
+  "tech_stack": [
+    "Android",
+    "Kotlin",
+    "MVVM",
+    "Databinding",
+    "Kotlin",
+    "Razorpay"
+  ],
+  "type": "Mobile/PlayStore",
+  "project_link": "https://play.google.com/store/apps/details?id=com.mosaicwellness.manmatters",
+  "github_link": "N/A",
+  "description": "It's an android app for wellness products created for mosaic wellness and will be updated on playstore by end of July 2021."
+},
+{
+  "title": "Priyang's Full Stack MERN Portfolio",
+  "timestamp": "1592980488",
+  "date": "April 17, 2021",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/portfoliog.gif?raw=true",
+  "tech_stack": [
+    "React.js",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Webpack"
+  ],
+  "type": "Web",
+  "project_link": "https://priyang-portfolio.herokuapp.com/",
+  "github_link": "https://github.com/Ultimatepc1/priyang-portfolio",
+  "description": "A portfolio site is essential for every software developer to showcase projects and technical skills which demonstrates what you can do based upon your resume."
+},{
+  "title": "ConsultMyDoc",
+  "timestamp": "1372663333",
+  "date": "JULY 2019",
+  "thumbnail": "https://user-images.githubusercontent.com/59617282/89734660-19fc0200-da7b-11ea-9089-96e540d7dc38.gif",
+  "tech_stack": [
+    "Flask",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "BootStrap",
+    "JavaScript"
+  ],
+  "type": "Web",
+  "project_link": "N/A",
+  "github_link": "https://github.com/Ultimatepc1/Consultmydoc_latest",
+  "description": "Consultmydoc is an online platform for patients to seek consultation from doctors regarding various diseases using HTML, CSS, Bootstrap, Javascript, FLASK, Xampp MySQL DB."
+},{
+  "title": "Technical Blogs",
+  "timestamp": "1372663333",
+  "date": "JULY 2020",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/tech_final2.gif?raw=true",
+  "tech_stack": [
+    "ReactJS",
+    "NodeJS",
+    "GraphQL",
+    "Apollo",
+    "Koa",
+    "MySQL",
+    "SCSS",
+    "Html"
+  ],
+  "type": "Web",
+  "project_link": "N/A",
+  "github_link": "N/A",
+  "description": "Technical Blogs is a technical blogging website created using GraphQL, Apollo Server, Koa, NodeJS and ReactJS"
+},{
+  "title": "InstaClone",
+  "timestamp": "1414623014",
+  "date": "July 2020",
+  "thumbnail": "https://user-images.githubusercontent.com/59617282/89737303-87189300-da8d-11ea-87cf-b6f300a7a7f3.gif",
+  "tech_stack": [
+    "Java",
+    "Android",
+    "AWS",
+    "Bitnami Parse Server",
+    "JSON"
+  ],
+  "type": "Mobile",
+  "project_link": "N/A",
+  "github_link": "https://github.com/Ultimatepc1/InstaClone",
+  "description": "Android Miniversion of the social app Instagram implemented.Parse Server and AWS Instance used."
+},{
+  "title": "Favorite Locations",
+  "timestamp": "1414623014",
+  "date": "July 2020",
+  "thumbnail": "https://user-images.githubusercontent.com/59617282/89756228-81f42c00-daff-11ea-9b15-79eb59cade55.gif",
+  "tech_stack": [
+    "Java",
+    "Android",
+    "Google Maps Api"
+  ],
+  "type": "Mobile",
+  "project_link": "N/A",
+  "github_link": "https://github.com/Ultimatepc1/FavoriteLocations",
+  "description": "Android app to store and Display User’s favorite locations. You can add a location by longclick on the location you want to add."
+},{
+  "title": "TwitterClone",
+  "timestamp": "1414623014",
+  "date": "July 2020",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/twitclone.jpg?raw=true",
+  "tech_stack": [
+    "Java",
+    "Android",
+    "AWS",
+    "Bitnami Parse Server",
+    "JSON"
+  ],
+  "type": "Mobile",
+  "project_link": "N/A",
+  "github_link": "https://github.com/Ultimatepc1/TwitterClone",
+  "description": "Android Miniversion of Twitter Implemented.Parse Server and AWS Instance used."
+},{
+  "title": "SnapChatClone",
+  "timestamp": "1414623014",
+  "date": "Oct 2020",
+  "thumbnail": "https://github.com/Ultimatepc1/bestpapersolutions/blob/master/media/snapimg.jpg?raw=true",
+  "tech_stack": [
+    "Java",
+    "Android",
+    "Firebase",
+    "JSON"
+  ],
+  "type": "Mobile",
+  "project_link": "N/A",
+  "github_link": "https://github.com/Ultimatepc1/SnapchatClone",
+  "description": "Android miniversion of Snapchat App implemented using Firebase."
+}
+]
